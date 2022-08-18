@@ -1,2 +1,2 @@
 # datacamp
-projetos do curso Data Science with Python do datacamp
+projetos do curso Data Scientist with Python do datacamp
